@@ -1,0 +1,6 @@
+binutils*
+gcc*
+mingw*
+*.log
+*.exe
+

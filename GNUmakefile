@@ -1,6 +1,5 @@
 #
-# A makefile to build MingW-w64 automatically, along with a Wine testing
-# environment.
+# A makefile to build MingW-w64 automatically.
 #
 BINUTILS_VER := 2.32
 GCC_VER      := 9.2.0

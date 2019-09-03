@@ -7,7 +7,7 @@ MINGW_VER    := 6.0.0
 PREFIX       := /opt/mingw64-dev
 DL_CMD       := curl -L -s
 
-GNU_MIRROR   := file:///srv/nas/15-Mirrors/GNU
+GNU_MIRROR   := https://mirrors.kernel.org/gnu
 
 MINGW_FILE    := mingw-w64-v${MINGW_VER}.tar.bz2
 BINUTILS_FILE := binutils-${BINUTILS_VER}.tar.xz
